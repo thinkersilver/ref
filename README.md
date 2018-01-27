@@ -1,10 +1,3 @@
-name: ref
-title: Ref:  Swiss Army Knife for slicing arrays and dicts
-date: 2018-01-27 13:49:49.426817
-package: ref
-assets: config.json,ref,MANIFEST.in,bin,setup.py
----
-
 
 ![](/images/general_200.gif)
 Ref is swiss army knife for slicing, selecting properties from nested document structures. 
